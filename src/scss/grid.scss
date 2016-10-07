@@ -1,0 +1,11 @@
+body {
+  background: red;
+}
+
+.container {
+  width: 80%;
+  height: 40px;
+  background: grey;
+  display: flex;
+  transform: rotate(30deg);
+}
